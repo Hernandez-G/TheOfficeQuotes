@@ -1,6 +1,12 @@
 fetch('https://www.officeapi.dev/api/quotes/random')
 .then(res => res.json())
 // console logging what on JSON file
-.then(data => console.log(data))
+.then(data => {
+    displayData(data);
+    console.log(data);
+});
 
-// .catch(err => console.log("ERROR"))
+function displayData(data) {
+    const theQuote = data.data.character.firstname
+    console.log(theQuote);
+}
