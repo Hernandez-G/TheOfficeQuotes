@@ -4,15 +4,8 @@
 
 
 <h3>Purpose of this project:</h3>
-<p>
-1. Practice rendering third party API into live server.
-2. DOM Manipulation.
- Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
-
-</p>
+<ol>Practice rendering third party API into live server.</ol>
+<ol>2. DOM Manipulation.</ol>
 
 <hr>
 <h3>Future Features: </h3>
