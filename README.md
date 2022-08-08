@@ -10,8 +10,8 @@
 
 </p>
 
-<h3>Future Features: </h3>
 <hr>
+<h3>Future Features: </h3>
 <li> 
 - Render button to randomize quotes.
 - Turn this into a game where users can guess who said that quote.
