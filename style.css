@@ -5,6 +5,7 @@ body {
 
 div#firstname, div#lastname {
     display: inline;
+    font-size: 1.5rem;
 }
 
 p {
