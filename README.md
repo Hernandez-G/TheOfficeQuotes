@@ -12,8 +12,6 @@
 
 <hr>
 <h3>Future Features: </h3>
-<li> 
-- Render button to randomize quotes.
-- Turn this into a game where users can guess who said that quote.
-- Customize stlye of the website. 
-</li>
+<li> Render button to randomize quotes. </li>
+<li>Turn this into a game where users can guess who said that quote.</li>
+<li> Customize stlye of the website. </li>
