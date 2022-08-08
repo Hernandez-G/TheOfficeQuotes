@@ -1,4 +1,13 @@
-div #firstname, #lastname {
-    display: inline;
+body {
+    justify-content: center;
+    text-align: center;
+}
 
+div #firstname, #lastname {
+    font-size: 1.2rem;
+    display: inline;
+}
+
+p {
+    font-size: 1.5rem;
 }

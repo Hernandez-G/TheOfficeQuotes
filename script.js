@@ -12,13 +12,13 @@ function displayData(data) {
     const dataDiv = document.getElementById("data");
 
 
-    const quote = data.data.content;
+    const quote = '"' + data.data.content + '"';
     console.log(data.data.content)
     const heading = document.createElement("p");
     heading.innerHTML = quote
     dataDiv.appendChild(heading)
     
-    const firstName = data.data.character.firstname;
+    const firstName = "- " + data.data.character.firstname;
     console.log(data.data.character.firstname)
     const fn = document.getElementById("firstname")
     fn.innerHTML = firstName;
