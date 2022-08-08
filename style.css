@@ -3,11 +3,10 @@ body {
     text-align: center;
 }
 
-div #firstname, #lastname {
-    font-size: 1.2rem;
+div#firstname, div#lastname {
     display: inline;
 }
 
 p {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }

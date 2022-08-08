@@ -11,7 +11,6 @@ function displayData(data) {
     console.log(theMeta);
     const dataDiv = document.getElementById("data");
 
-
     const quote = '"' + data.data.content + '"';
     console.log(data.data.content)
     const heading = document.createElement("p");
