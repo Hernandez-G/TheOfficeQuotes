@@ -12,20 +12,20 @@ function displayData(data) {
     const dataDiv = document.getElementById("data");
 
 
-    // First Name
-
-    const firstName = data.data.character.firstname;
-    console.log(data.data.character.firstname)
-
-    const lastName = data.data.character.lastname;
-    console.log(data.data.character.lastname)
-
-    
     const quote = data.data.content;
     console.log(data.data.content)
-    const button = document.createElement("p");
-    button.innerHTML = quote;
-    dataDiv.appendChild(button)
-}
-
+    const heading = document.createElement("p");
+    heading.innerHTML = quote
+    dataDiv.appendChild(heading)
     
+    const firstName = data.data.character.firstname;
+    console.log(data.data.character.firstname)
+    const fn = document.getElementById("firstname")
+    fn.innerHTML = firstName;
+    
+    const lastName = data.data.character.lastname;
+    console.log(data.data.character.lastname)
+    const ln = document.getElementById("lastname")
+    ln.innerHTML = lastName;
+
+}
