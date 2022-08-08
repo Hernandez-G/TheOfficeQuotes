@@ -4,8 +4,9 @@
 
 
 <h3>Purpose of this project:</h3>
-<ol>Practice rendering third party API into live server.</ol>
+<ol>1. Practice rendering a third party API into live server.</ol>
 <ol>2. DOM Manipulation.</ol>
+<ol>3. Develop and maintain Vanilla JavaScript/HTML/CSS programming skills.</ol>
 
 <hr>
 <h3>Future Features: </h3>
