@@ -7,6 +7,10 @@
 <p>
 1. Practice rendering third party API into live server.
 2. DOM Manipulation.
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
 
 </p>
 
