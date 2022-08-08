@@ -1,4 +1,4 @@
-<h1> The Office API </h1>
+<h1> The Office API :trophy: </h1>
 
 <a href="https://hernandez-g.github.io/TheOfficeQuotes/">[Launch App]</a> &nbsp; &nbsp;
 
